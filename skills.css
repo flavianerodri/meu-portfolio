@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-image: linear-gradient(to right, #8840f4, #b163de);
+  margin: 0;
+}
+
+.principal {
+  background-color: white;
+  max-width: 1650px;
+  width: 95%;
+  height: 88vh;
+  border-radius: 15px;
+  margin: 6vh auto 6vh;
+}
+
+.grid {
+  max-width: 1450px;
+  width: 85vw;
+  height: 88vh;
+  margin: 0 auto;
+}
